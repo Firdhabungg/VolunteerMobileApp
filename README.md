@@ -6,4 +6,5 @@ Silakan gunakan format berikut:
 **\* Nama, [Linkedln/GitHub/Website](Alamat URL).**
 
 Berikut adalah daftar Volunter yang diterima:
-* Rama Saetama, [https://www.linkedin.com/in/ramasaetama5/].
+* Rama Saetama, [Linkedln](https://www.linkedin.com/in/ramasaetama5/).
+* Dicky Firdha Firmansyah, [Linkedln](https://www.linkedin.com/in/dickyfirmansyah33/).  
